@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Krina Morabia
+# 👋 Hi, I’m Kriya Morabia
 
 ![Profile Banner](https://img.shields.io/badge/Final%20Year%20B.Tech%20CSE%20@%20Nirma%20University-55CBCD?style=for-the-badge&logo=google&logoColor=white)
 
@@ -9,7 +9,7 @@
 I’m a final year Computer Science & Engineering student at Nirma University, Ahmedabad, India.  
 I love building things that blend creativity, logic, and impact!  
 Passionate about poetry, storytelling, social media, marketing, and management.  
-Campus Ambassador for Internshala, Hungrito, & Global Colliance.
+Campus Ambassador for Mood Indigo IITB, Internshala, Hungrito, & Global Colliance.
 
 > _"Do it with passion or not at all."_
 
