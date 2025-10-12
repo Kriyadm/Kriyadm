@@ -62,7 +62,7 @@ Public Speaking | Leadership | Communication
 
 ## 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Krina%20Morabia-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/krina-morabia/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kriya%20Morabia-0077B5?style=flat&logo=linkedin)]([https://www.linkedin.com/in/kriya-morabia](https://www.linkedin.com/in/kriya-m))  
 📧 Email: [kdmorabia@gmail.com](mailto:kdmorabia@gmail.com)  
 
 ---
