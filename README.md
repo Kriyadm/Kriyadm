@@ -1,71 +1,20 @@
-# 👋 Hi, I’m Kriya Morabia
+# 💫 About Me:
+👋 Hi, I’m Kriya Morabia<br>Profile Banner<br><br>🌟 About Me<br>I’m a final year Computer Science & Engineering student at Nirma University, Ahmedabad, India.<br>I love building things that blend creativity, logic, and impact!<br>Passionate about poetry, storytelling, social media, marketing, and management.<br>Campus Ambassador for Mood Indigo IITB, Internshala, Hungrito, & Global Colliance.<br><br>"Do it with passion or not at all."<br><br>🛠️ Skills & Technologies<br>Programming:<br>Python<br>C++ | Java<br><br>Web Development:<br>HTML | CSS | JavaScript | Bootstrap | Firebase<br><br>Machine Learning & Data:<br>scikit-learn | TensorFlow | pandas | NumPy<br><br>Tools & Tech:<br>Git | MySQL | Tkinter | React (beginner)<br><br>Soft Skills:<br>Public Speaking | Leadership | Communication<br><br>🚀 Featured Projects<br>Movie Genre Classification using ML:<br>Predictive model using textual data and classifiers (Naive Bayes, SVM)<br><br>Pharmaceutical Website (Firebase):<br>Medicine purchases & doctor consultations platform<br><br>To-Do List (Java):<br>GUI-based app for managing tasks and priorities<br><br>Contact Management System (Python):<br>Hierarchical tree structure, Tkinter UI<br><br>E-Commerce Website:<br>Product pages & shopping cart with HTML/CSS<br><br>Online Bidding System (C):<br>CLI-based auction-style bidding simulation<br><br>PapertoX (AI/ML/DL):<br>Converts any research article into multiple formats like PowerPoint presentations, podcasts, videos, reels, and graphical abstracts using AI, ML, and deep learning techniques<br><br>📬 Connect with Me<br>LinkedIn 📧 Email: kdmorabia@gmail.com<br><br>🎨 More About Me<br>When I’m not coding, you’ll find me writing poetry, sharing stories, or organizing events.<br>I believe in making every project a blend of fun, function, and learning!<br><br>If you’d like to collaborate on something cool, feel free to reach out!
 
-![Profile Banner](https://img.shields.io/badge/Final%20Year%20B.Tech%20CSE%20@%20Nirma%20University-55CBCD?style=for-the-badge&logo=google&logoColor=white)
 
----
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/HYRZrzKw) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_kriyaaa_44) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kriya-m) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kriyainsights) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/curatedbykriyaa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kdmorabia@gmail.com) 
 
-## 🌟 About Me
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Kriyadm&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Kriyadm&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kriyadm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-I’m a final year Computer Science & Engineering student at Nirma University, Ahmedabad, India.  
-I love building things that blend creativity, logic, and impact!  
-Passionate about poetry, storytelling, social media, marketing, and management.  
-Campus Ambassador for Mood Indigo IITB, Internshala, Hungrito, & Global Colliance.
 
-> _"Do it with passion or not at all."_
-
----
-
-## 🛠️ Skills & Technologies
-
-**Programming:**  
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)  
-C++ | Java
-
-**Web Development:**  
-HTML | CSS | JavaScript | Bootstrap | Firebase
-
-**Machine Learning & Data:**  
-scikit-learn | TensorFlow | pandas | NumPy
-
-**Tools & Tech:**  
-Git | MySQL | Tkinter | React (beginner)
-
-**Soft Skills:**  
-Public Speaking | Leadership | Communication
-
----
-
-## 🚀 Featured Projects
-
-- **Movie Genre Classification using ML:**  
-  Predictive model using textual data and classifiers (Naive Bayes, SVM)
-
-- **Pharmaceutical Website (Firebase):**  
-  Medicine purchases & doctor consultations platform
-
-- **To-Do List (Java):**  
-  GUI-based app for managing tasks and priorities
-
-- **Contact Management System (Python):**  
-  Hierarchical tree structure, Tkinter UI
-
-- **E-Commerce Website:**  
-  Product pages & shopping cart with HTML/CSS
-
-- **Online Bidding System (C):**  
-  CLI-based auction-style bidding simulation
-
-- **PapertoX (AI/ML/DL):**  
-  Converts any research article into multiple formats like PowerPoint presentations, podcasts, videos, reels, and graphical abstracts using AI, ML, and deep learning techniques
-
----
-
-## 📬 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kriya%20Morabia-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/kriya-m)
-📧 Email: [kdmorabia@gmail.com](mailto:kdmorabia@gmail.com)  
-
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🎨 More About Me
 
@@ -75,3 +24,7 @@ I believe in making every project a blend of fun, function, and learning!
 ---
 
 >_If you’d like to collaborate on something cool, feel free to reach out!_
+---
+[![](https://visitcount.itsvg.in/api?id=Kriyadm&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
