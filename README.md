@@ -1,6 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Kriya Morabia<br>Profile Banner<br><br>🌟 About Me<br>I’m a final year Computer Science & Engineering student at Nirma University, Ahmedabad, India.<br>I love building things that blend creativity, logic, and impact!<br>Passionate about poetry, storytelling, social media, marketing, and management.<br>Campus Ambassador for Mood Indigo IITB, Internshala, Hungrito, & Global Colliance.<br><br>"Do it with passion or not at all."<br><br>🛠️ Skills & Technologies<br>Programming:<br>Python<br>C++ | Java<br><br>Web Development:<br>HTML | CSS | JavaScript | Bootstrap | Firebase<br><br>Machine Learning & Data:<br>scikit-learn | TensorFlow | pandas | NumPy<br><br>Tools & Tech:<br>Git | MySQL | Tkinter | React (beginner)<br><br>Soft Skills:<br>Public Speaking | Leadership | Communication<br><br>🚀 Featured Projects<br>Movie Genre Classification using ML:<br>Predictive model using textual data and classifiers (Naive Bayes, SVM)<br><br>Pharmaceutical Website (Firebase):<br>Medicine purchases & doctor consultations platform<br><br>To-Do List (Java):<br>GUI-based app for managing tasks and priorities<br><br>Contact Management System (Python):<br>Hierarchical tree structure, Tkinter UI<br><br>E-Commerce Website:<br>Product pages & shopping cart with HTML/CSS<br><br>Online Bidding System (C):<br>CLI-based auction-style bidding simulation<br><br>PapertoX (AI/ML/DL):<br>Converts any research article into multiple formats like PowerPoint presentations, podcasts, videos, reels, and graphical abstracts using AI, ML, and deep learning techniques<br><br>📬 Connect with Me<br>LinkedIn 📧 Email: kdmorabia@gmail.com<br><br>🎨 More About Me<br>When I’m not coding, you’ll find me writing poetry, sharing stories, or organizing events.<br>I believe in making every project a blend of fun, function, and learning!<br><br>If you’d like to collaborate on something cool, feel free to reach out!
-
+👋 Hi, I’m Kriya Morabia<br>Profile Banner<br><br>🌟 About Me<br>I’m a final year Computer Science & Engineering student at Nirma University, Ahmedabad, India.<br>I love building things that blend creativity, logic, and impact!<br>Passionate about poetry, storytelling, social media, marketing, and management.<br>Campus Ambassador for Mood Indigo IITB, Internshala, Hungrito, & Global Colliance.<br><br>"Do it with passion or not at all."<br><br>🛠️ Skills & Technologies<br>Programming:<br>Python<br>C++ | Java<br><br>Web Development:<br>HTML | CSS | JavaScript | Bootstrap | Firebase<br><br>Machine Learning & Data:<br>scikit-learn | TensorFlow | pandas | NumPy<br><br>Tools & Tech:<br>Git | MySQL | Tkinter | React (beginner)<br><br>Soft Skills:<br>Public Speaking | Leadership | Communication<br><br>🚀 Featured Projects<br>Movie Genre Classification using ML:<br>Predictive model using textual data and classifiers (Naive Bayes, SVM)<br><br>Pharmaceutical Website (Firebase):<br>Medicine purchases & doctor consultations platform<br><br>To-Do List (Java):<br>GUI-based app for managing tasks and priorities<br><br>Contact Management System (Python):<br>Hierarchical tree structure, Tkinter UI<br><br>E-Commerce Website:<br>Product pages & shopping cart with HTML/CSS<br><br>Online Bidding System (C):<br>CLI-based auction-style bidding simulation<br><br>PapertoX (AI/ML/DL):<br>Converts any research article into multiple formats like PowerPoint presentations, podcasts, videos, reels, and graphical abstracts using AI, ML, and deep learning techniques<br><br>📬 Connect with Me<br>LinkedIn 📧 Email: kdmorabia@gmail.com<br><br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/HYRZrzKw) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_kriyaaa_44) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kriya-m) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kriyainsights) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/curatedbykriyaa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kdmorabia@gmail.com) 
@@ -13,9 +12,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kriyadm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ## 🎨 More About Me
 
 When I’m not coding, you’ll find me writing poetry, sharing stories, or organizing events.  
@@ -25,6 +21,11 @@ I believe in making every project a blend of fun, function, and learning!
 
 >_If you’d like to collaborate on something cool, feel free to reach out!_
 ---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 [![](https://visitcount.itsvg.in/api?id=Kriyadm&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
